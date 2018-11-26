@@ -73,8 +73,7 @@ body {
 	width: 36rem;
 	margin: 7rem auto;
 	max-width: 550px;
-	padding-right: 15px;
-	padding-left: 15px;
+	padding: 35px 15px;
 	@include center-block();
 	background-color: $white;
 	color: $color_shark;
