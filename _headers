@@ -11,9 +11,12 @@
 	cache-control: public
 	cache-control: max-age=604800
 
-/*.ico
+/*.woff
 	cache-control: public
 	cache-control: max-age=31536000
+
+/*.ico
+	cache-control: public
 
 /*.png
 	cache-control: public
